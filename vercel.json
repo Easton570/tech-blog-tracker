@@ -1,0 +1,42 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "crons": [
+    {
+      "path": "/api/cron/check-feeds?batch=0",
+      "schedule": "0 */4 * * *"
+    },
+    {
+      "path": "/api/cron/check-feeds?batch=1",
+      "schedule": "5 */4 * * *"
+    },
+    {
+      "path": "/api/cron/check-feeds?batch=2",
+      "schedule": "10 */4 * * *"
+    },
+    {
+      "path": "/api/cron/check-feeds?batch=3",
+      "schedule": "15 */4 * * *"
+    },
+    {
+      "path": "/api/cron/check-feeds?batch=4",
+      "schedule": "20 */4 * * *"
+    },
+    {
+      "path": "/api/cron/summarize",
+      "schedule": "30 */4 * * *"
+    },
+    {
+      "path": "/api/cron/build-digest?type=daily",
+      "schedule": "0 6 * * *"
+    },
+    {
+      "path": "/api/cron/build-digest?type=weekly",
+      "schedule": "0 7 * * 1"
+    }
+  ],
+  "functions": {
+    "app/api/cron/**/*.ts": {
+      "maxDuration": 300
+    }
+  }
+}

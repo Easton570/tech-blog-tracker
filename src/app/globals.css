@@ -1,0 +1,173 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=IBM+Plex+Mono:wght@300;400;500;600&display=swap');
+
+@layer base {
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: #232335 transparent;
+  }
+
+  *::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  *::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  *::-webkit-scrollbar-thumb {
+    background: #232335;
+    border-radius: 3px;
+  }
+  *::-webkit-scrollbar-thumb:hover {
+    background: #2a2a40;
+  }
+
+  ::selection {
+    background: rgba(99, 102, 241, 0.3);
+    color: #e2e2f0;
+  }
+
+  body {
+    background: #06060b;
+    color: #e2e2f0;
+    font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer components {
+  /* Terminal-style panel */
+  .panel {
+    @apply bg-surface-1 border border-surface-3 rounded-sm;
+    background-image:
+      linear-gradient(rgba(99, 102, 241, 0.02) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(99, 102, 241, 0.02) 1px, transparent 1px);
+    background-size: 20px 20px;
+  }
+
+  .panel-header {
+    @apply px-4 py-2.5 border-b border-surface-3 flex items-center justify-between;
+  }
+
+  .panel-header h2,
+  .panel-header h3 {
+    @apply font-mono text-xs font-medium uppercase tracking-[0.15em] text-text-secondary;
+  }
+
+  .panel-body {
+    @apply p-4;
+  }
+
+  /* Data label */
+  .data-label {
+    @apply font-mono text-[10px] uppercase tracking-[0.2em] text-text-dim;
+  }
+
+  .data-value {
+    @apply font-mono text-lg font-medium text-text-primary;
+  }
+
+  /* Status dot */
+  .status-dot {
+    @apply w-1.5 h-1.5 rounded-full inline-block;
+  }
+  .status-dot-active {
+    @apply bg-terminal-green shadow-[0_0_6px_rgba(0,255,136,0.4)];
+  }
+  .status-dot-failing {
+    @apply bg-terminal-amber shadow-[0_0_6px_rgba(255,184,0,0.4)];
+  }
+  .status-dot-dead {
+    @apply bg-terminal-red shadow-[0_0_6px_rgba(255,51,68,0.4)];
+  }
+  .status-dot-pending {
+    @apply bg-muted;
+  }
+
+  /* Tag chip */
+  .tag {
+    @apply inline-flex items-center px-2 py-0.5 font-mono text-[10px] uppercase tracking-wider
+           border rounded-sm transition-colors;
+  }
+
+  .tag-default {
+    @apply border-surface-4 text-text-secondary bg-surface-2 hover:border-muted;
+  }
+
+  .tag-accent {
+    @apply border-accent/30 text-accent-light bg-accent/5 hover:bg-accent/10;
+  }
+
+  .tag-sentiment-positive {
+    @apply border-terminal-green/30 text-terminal-green bg-terminal-green/5;
+  }
+  .tag-sentiment-negative {
+    @apply border-terminal-red/30 text-terminal-red bg-terminal-red/5;
+  }
+  .tag-sentiment-neutral {
+    @apply border-terminal-cyan/30 text-terminal-cyan bg-terminal-cyan/5;
+  }
+  .tag-sentiment-mixed {
+    @apply border-terminal-amber/30 text-terminal-amber bg-terminal-amber/5;
+  }
+
+  /* Scanline overlay */
+  .scanlines::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(0, 0, 0, 0.015) 2px,
+      rgba(0, 0, 0, 0.015) 4px
+    );
+    pointer-events: none;
+  }
+
+  /* Glow border on hover */
+  .glow-border {
+    @apply transition-shadow duration-300;
+  }
+  .glow-border:hover {
+    box-shadow:
+      0 0 0 1px rgba(99, 102, 241, 0.2),
+      0 0 20px -5px rgba(99, 102, 241, 0.1);
+  }
+
+  /* Ticker tape row */
+  .ticker-row {
+    @apply flex items-center gap-3 px-4 py-2.5 border-b border-surface-2
+           hover:bg-surface-2/50 transition-colors cursor-default;
+  }
+
+  /* Staggered animation children */
+  .stagger > * {
+    @apply opacity-0 animate-slide-up;
+  }
+  .stagger > *:nth-child(1) { animation-delay: 0.05s; }
+  .stagger > *:nth-child(2) { animation-delay: 0.1s; }
+  .stagger > *:nth-child(3) { animation-delay: 0.15s; }
+  .stagger > *:nth-child(4) { animation-delay: 0.2s; }
+  .stagger > *:nth-child(5) { animation-delay: 0.25s; }
+  .stagger > *:nth-child(6) { animation-delay: 0.3s; }
+  .stagger > *:nth-child(7) { animation-delay: 0.35s; }
+  .stagger > *:nth-child(8) { animation-delay: 0.4s; }
+  .stagger > *:nth-child(9) { animation-delay: 0.45s; }
+  .stagger > *:nth-child(10) { animation-delay: 0.5s; }
+}
+
+@layer utilities {
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-accent-light to-terminal-cyan;
+  }
+}

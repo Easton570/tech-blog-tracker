@@ -1,0 +1,1500 @@
+[
+  {
+    "rank": 1,
+    "domain": "paulgraham.com",
+    "slug": "paulgraham-com",
+    "name": "Paul Graham's Essays",
+    "author": "Paul Graham",
+    "bio": "Co-founder of Y Combinator",
+    "topics": [
+      "startups",
+      "technology",
+      "entrepreneurship"
+    ],
+    "totalScore": 97538,
+    "stories": 392
+  },
+  {
+    "rank": 2,
+    "domain": "krebsonsecurity.com",
+    "slug": "krebsonsecurity-com",
+    "name": "Krebs on Security",
+    "author": "Brian Krebs",
+    "bio": "Independent journalist",
+    "topics": [
+      "security",
+      "malware",
+      "fraud"
+    ],
+    "totalScore": 90090,
+    "stories": 492
+  },
+  {
+    "rank": 3,
+    "domain": "simonwillison.net",
+    "slug": "simonwillison-net",
+    "name": "Simon Willison's Blog",
+    "author": "Simon Willison",
+    "bio": "AI researcher and co-creator of Django",
+    "topics": [
+      "AI",
+      "data journalism",
+      "blogging"
+    ],
+    "totalScore": 67320,
+    "stories": 286
+  },
+  {
+    "rank": 4,
+    "domain": "daringfireball.net",
+    "slug": "daringfireball-net",
+    "name": "Daring Fireball",
+    "author": "John Gruber",
+    "bio": "Technology blogger",
+    "topics": [
+      "Apple",
+      "technology",
+      "design"
+    ],
+    "totalScore": 54040,
+    "stories": 452
+  },
+  {
+    "rank": 5,
+    "domain": "jvns.ca",
+    "slug": "jvns-ca",
+    "name": "Julia Evans' Blog",
+    "author": "Julia Evans",
+    "bio": "Developer and zine author",
+    "topics": [
+      "linux",
+      "debugging",
+      "dns"
+    ],
+    "totalScore": 50861,
+    "stories": 250
+  },
+  {
+    "rank": 6,
+    "domain": "danluu.com",
+    "slug": "danluu-com",
+    "name": "Dan Luu's Blog",
+    "author": "Dan Luu",
+    "bio": "Engineer and writer",
+    "topics": [
+      "hardware",
+      "software",
+      "performance"
+    ],
+    "totalScore": 48382,
+    "stories": 210
+  },
+  {
+    "rank": 7,
+    "domain": "righto.com",
+    "slug": "righto-com",
+    "name": "Ken Shirriff's Blog",
+    "author": "Ken Shirriff",
+    "bio": "Vintage computer enthusiast",
+    "topics": [
+      "computer history",
+      "vintage computers",
+      "reverse engineering"
+    ],
+    "totalScore": 46454,
+    "stories": 331
+  },
+  {
+    "rank": 8,
+    "domain": "stratechery.com",
+    "slug": "stratechery-com",
+    "name": "Stratechery",
+    "author": "Ben Thompson",
+    "bio": "Technology analyst",
+    "topics": [
+      "business",
+      "technology",
+      "media"
+    ],
+    "totalScore": 45819,
+    "stories": 265
+  },
+  {
+    "rank": 9,
+    "domain": "troyhunt.com",
+    "slug": "troyhunt-com",
+    "name": "Troy Hunt's Blog",
+    "author": "Troy Hunt",
+    "bio": "Security expert and instructor",
+    "topics": [
+      "security",
+      "data breaches",
+      "web security"
+    ],
+    "totalScore": 43698,
+    "stories": 185
+  },
+  {
+    "rank": 10,
+    "domain": "rachelbythebay.com",
+    "slug": "rachelbythebay-com",
+    "name": "Rachel by the Bay",
+    "author": "Rachel Kroll",
+    "bio": "Infrastructure engineer",
+    "topics": [
+      "software engineering",
+      "personal experiences",
+      "technology"
+    ],
+    "totalScore": 43039,
+    "stories": 241
+  },
+  {
+    "rank": 11,
+    "domain": "shkspr.mobi",
+    "slug": "shkspr-mobi",
+    "name": "Terence Eden's Blog",
+    "author": "Terence Eden",
+    "bio": "Technology consultant and writer",
+    "topics": [
+      "open data",
+      "technology",
+      "digital rights"
+    ],
+    "totalScore": 42792,
+    "stories": 267
+  },
+  {
+    "rank": 12,
+    "domain": "schneier.com",
+    "slug": "schneier-com",
+    "name": "Schneier on Security",
+    "author": "Bruce Schneier",
+    "bio": "Security technologist and author",
+    "topics": [
+      "security",
+      "cryptography",
+      "privacy"
+    ],
+    "totalScore": 41256,
+    "stories": 386
+  },
+  {
+    "rank": 13,
+    "domain": "kalzumeus.com",
+    "slug": "kalzumeus-com",
+    "name": "Kalzumeus",
+    "author": "Patrick McKenzie",
+    "bio": "Developer and consultant",
+    "topics": [
+      "product pricing",
+      "a-b testing",
+      "conversion optimization"
+    ],
+    "totalScore": 41254,
+    "stories": 179
+  },
+  {
+    "rank": 14,
+    "domain": "jacquesmattheij.com",
+    "slug": "jacquesmattheij-com",
+    "name": "Jacques Mattheij's Blog",
+    "author": "Jacques Mattheij",
+    "bio": "Entrepreneur and technologist",
+    "topics": [
+      "startups",
+      "technology",
+      "personal projects"
+    ],
+    "totalScore": 39620,
+    "stories": 232
+  },
+  {
+    "rank": 15,
+    "domain": "jeffgeerling.com",
+    "slug": "jeffgeerling-com",
+    "name": "Jeff Geerling's Blog",
+    "author": "Jeff Geerling",
+    "bio": "Developer and YouTube creator",
+    "topics": [
+      "Raspberry Pi",
+      "Ansible",
+      "open-source"
+    ],
+    "totalScore": 38732,
+    "stories": 206
+  },
+  {
+    "rank": 16,
+    "domain": "utcc.utoronto.ca/~cks",
+    "slug": "utcc-utoronto-ca-cks",
+    "name": "Chris Siebenmann's Blog",
+    "author": "Chris Siebenmann",
+    "bio": "Unix system administrator",
+    "topics": [
+      "Unix",
+      "system administration",
+      "linux"
+    ],
+    "totalScore": 37345,
+    "stories": 335
+  },
+  {
+    "rank": 17,
+    "domain": "blog.samaltman.com",
+    "slug": "blog-samaltman-com",
+    "name": "Sam Altman's Blog",
+    "author": "Sam Altman",
+    "bio": "Entrepreneur and investor",
+    "topics": [
+      "startups",
+      "technology",
+      "economics"
+    ],
+    "totalScore": 36060,
+    "stories": 131
+  },
+  {
+    "rank": 18,
+    "domain": "antirez.com",
+    "slug": "antirez-com",
+    "name": "Antirez",
+    "author": "Salvatore Sanfilippo",
+    "bio": "Creator of Redis",
+    "topics": [
+      "databases",
+      "open-source",
+      "software development"
+    ],
+    "totalScore": 35346,
+    "stories": 162
+  },
+  {
+    "rank": 19,
+    "domain": "marco.org",
+    "slug": "marco-org",
+    "name": "Marco.org",
+    "author": "Marco Arment",
+    "bio": "Developer and podcaster",
+    "topics": [
+      "technology",
+      "software development",
+      "podcasts"
+    ],
+    "totalScore": 34547,
+    "stories": 237
+  },
+  {
+    "rank": 20,
+    "domain": "blog.codinghorror.com",
+    "slug": "blog-codinghorror-com",
+    "name": "Coding Horror",
+    "author": "Jeff Atwood",
+    "bio": "Co-founder of Stack Overflow",
+    "topics": [
+      "software development",
+      "coding practices",
+      "technology"
+    ],
+    "totalScore": 32814,
+    "stories": 294
+  },
+  {
+    "rank": 21,
+    "domain": "drewdevault.com",
+    "slug": "drewdevault-com",
+    "name": "Drew DeVault's Blog",
+    "author": "Drew DeVault",
+    "bio": "Developer and open-source advocate",
+    "topics": [
+      "open-source",
+      "software development",
+      "technology"
+    ],
+    "totalScore": 32411,
+    "stories": 184
+  },
+  {
+    "rank": 22,
+    "domain": "ciechanow.ski",
+    "slug": "ciechanow-ski",
+    "name": "Ciechanowski",
+    "author": "Bartosz Ciechanowski",
+    "bio": "Author of interactive articles",
+    "topics": [
+      "physics",
+      "engineering",
+      "visualizations"
+    ],
+    "totalScore": 32277,
+    "stories": 26
+  },
+  {
+    "rank": 23,
+    "domain": "tbray.org",
+    "slug": "tbray-org",
+    "name": "Tim Bray's Blog",
+    "author": "Tim Bray",
+    "bio": "Technologist and writer",
+    "topics": [
+      "technology",
+      "software development",
+      "XML"
+    ],
+    "totalScore": 31451,
+    "stories": 218
+  },
+  {
+    "rank": 24,
+    "domain": "sive.rs",
+    "slug": "sive-rs",
+    "name": "Derek Sivers' Blog",
+    "author": "Derek Sivers",
+    "bio": "Entrepreneur and author",
+    "topics": [
+      "entrepreneurship",
+      "music",
+      "personal development"
+    ],
+    "totalScore": 29886,
+    "stories": 178
+  },
+  {
+    "rank": 25,
+    "domain": "devblogs.microsoft.com/oldnewthing",
+    "slug": "devblogs-microsoft-com-oldnewthing",
+    "name": "The Old New Thing",
+    "author": "Raymond Chen",
+    "bio": "Veteran Microsoft engineer",
+    "topics": [
+      "Windows development",
+      "programming",
+      "software history"
+    ],
+    "totalScore": 28917,
+    "stories": 215
+  },
+  {
+    "rank": 26,
+    "domain": "fabiensanglard.net",
+    "slug": "fabiensanglard-net",
+    "name": "Fabien Sanglard's Blog",
+    "author": "Fabien Sanglard",
+    "bio": "Software developer and author",
+    "topics": [
+      "game development",
+      "software engineering",
+      "retro computing"
+    ],
+    "totalScore": 28654,
+    "stories": 137
+  },
+  {
+    "rank": 27,
+    "domain": "gwern.net",
+    "slug": "gwern-net",
+    "name": "Gwern.net",
+    "author": "Gwern Branwen",
+    "bio": "Researcher and writer",
+    "topics": [
+      "psychology",
+      "statistics",
+      "technology"
+    ],
+    "totalScore": 27514,
+    "stories": 211
+  },
+  {
+    "rank": 28,
+    "domain": "jgc.org",
+    "slug": "jgc-org",
+    "name": "John Graham-Cumming's Blog",
+    "author": "John Graham-Cumming",
+    "bio": "Former CTO of Cloudflare",
+    "topics": [
+      "programming",
+      "technology",
+      "history"
+    ],
+    "totalScore": 27450,
+    "stories": 245
+  },
+  {
+    "rank": 29,
+    "domain": "daniel.haxx.se",
+    "slug": "daniel-haxx-se",
+    "name": "Daniel Stenberg's Blog",
+    "author": "Daniel Stenberg",
+    "bio": "Creator of cURL",
+    "topics": [
+      "networking",
+      "open-source",
+      "software development"
+    ],
+    "totalScore": 26037,
+    "stories": 172
+  },
+  {
+    "rank": 30,
+    "domain": "johndcook.com",
+    "slug": "johndcook-com",
+    "name": "John D. Cook's Blog",
+    "author": "John D. Cook",
+    "bio": "Consultant and mathematician",
+    "topics": [
+      "mathematics",
+      "statistics",
+      "software development"
+    ],
+    "totalScore": 23292,
+    "stories": 239
+  },
+  {
+    "rank": 31,
+    "domain": "steveblank.com",
+    "slug": "steveblank-com",
+    "name": "Steve Blank's Blog",
+    "author": "Steve Blank",
+    "bio": "Entrepreneur and educator",
+    "topics": [
+      "startups",
+      "entrepreneurship",
+      "lean startup methodology"
+    ],
+    "totalScore": 23129,
+    "stories": 215
+  },
+  {
+    "rank": 32,
+    "domain": "pluralistic.net",
+    "slug": "pluralistic-net",
+    "name": "Pluralistic",
+    "author": "Cory Doctorow",
+    "bio": "Author and activist",
+    "topics": [
+      "activism",
+      "technology",
+      "copyright"
+    ],
+    "totalScore": 22406,
+    "stories": 166
+  },
+  {
+    "rank": 33,
+    "domain": "martinfowler.com",
+    "slug": "martinfowler-com",
+    "name": "Martin Fowler's Blog",
+    "author": "Martin Fowler",
+    "bio": "Software development expert",
+    "topics": [
+      "software architecture",
+      "refactoring",
+      "agile development"
+    ],
+    "totalScore": 22041,
+    "stories": 165
+  },
+  {
+    "rank": 34,
+    "domain": "tonsky.me",
+    "slug": "tonsky-me",
+    "name": "Tonsky's Blog",
+    "author": "Nikita Prokopov",
+    "bio": "Developer and designer",
+    "topics": [
+      "software development",
+      "design",
+      "typography"
+    ],
+    "totalScore": 21451,
+    "stories": 63
+  },
+  {
+    "rank": 35,
+    "domain": "lemire.me",
+    "slug": "lemire-me",
+    "name": "Daniel Lemire's Blog",
+    "author": "Daniel Lemire",
+    "bio": "Computer science professor",
+    "topics": [
+      "algorithms",
+      "performance",
+      "data science"
+    ],
+    "totalScore": 21087,
+    "stories": 216
+  },
+  {
+    "rank": 36,
+    "domain": "hanselman.com",
+    "slug": "hanselman-com",
+    "name": "Scott Hanselman's Blog",
+    "author": "Scott Hanselman",
+    "bio": "Developer and speaker",
+    "topics": [
+      "software development",
+      "productivity",
+      "technology"
+    ],
+    "totalScore": 20431,
+    "stories": 127
+  },
+  {
+    "rank": 37,
+    "domain": "neal.fun",
+    "slug": "neal-fun",
+    "name": "Neal.fun",
+    "author": "Neal Agarwal",
+    "bio": "Interactive web developer",
+    "topics": [
+      "web development",
+      "creative coding",
+      "interactive design"
+    ],
+    "totalScore": 20387,
+    "stories": 30
+  },
+  {
+    "rank": 38,
+    "domain": "gatesnotes.com",
+    "slug": "gatesnotes-com",
+    "name": "GatesNotes",
+    "author": "Bill Gates",
+    "bio": "Philanthropist and technologist",
+    "topics": [
+      "global health",
+      "education",
+      "technology"
+    ],
+    "totalScore": 20141,
+    "stories": 88
+  },
+  {
+    "rank": 39,
+    "domain": "dynomight.net",
+    "slug": "dynomight-net",
+    "name": "Dynomight",
+    "author": "Anonymous",
+    "bio": "Anonymous writer",
+    "topics": [
+      "science",
+      "existential angst"
+    ],
+    "totalScore": 20127,
+    "stories": 90
+  },
+  {
+    "rank": 40,
+    "domain": "filfre.net",
+    "slug": "filfre-net",
+    "name": "The Digital Antiquarian",
+    "author": "Jimmy Maher",
+    "bio": "Writer and historian",
+    "topics": [
+      "computer history",
+      "interactive fiction",
+      "technology"
+    ],
+    "totalScore": 19428,
+    "stories": 148
+  },
+  {
+    "rank": 41,
+    "domain": "nullprogram.com",
+    "slug": "nullprogram-com",
+    "name": "Null Program",
+    "author": "Chris Wellons",
+    "bio": "Software developer",
+    "topics": [
+      "programming",
+      "emacs",
+      "software engineering"
+    ],
+    "totalScore": 18795,
+    "stories": 143
+  },
+  {
+    "rank": 42,
+    "domain": "antipope.org",
+    "slug": "antipope-org",
+    "name": "Charlie's Diary",
+    "author": "Charles Stross",
+    "bio": "Science fiction author",
+    "topics": [
+      "science fiction",
+      "technology",
+      "politics"
+    ],
+    "totalScore": 18276,
+    "stories": 136
+  },
+  {
+    "rank": 43,
+    "domain": "blog.plover.com",
+    "slug": "blog-plover-com",
+    "name": "The Universe of Discourse",
+    "author": "Mark Dominus",
+    "bio": "Software developer and mathematician",
+    "topics": [
+      "languages",
+      "programming",
+      "books"
+    ],
+    "totalScore": 18129,
+    "stories": 110
+  },
+  {
+    "rank": 44,
+    "domain": "xeiaso.net",
+    "slug": "xeiaso-net",
+    "name": "Xe Iaso's Blog",
+    "author": "Xe Iaso",
+    "bio": "Software developer",
+    "topics": [
+      "software development",
+      "Rust programming",
+      "Nix"
+    ],
+    "totalScore": 17914,
+    "stories": 101
+  },
+  {
+    "rank": 45,
+    "domain": "brendangregg.com",
+    "slug": "brendangregg-com",
+    "name": "Brendan Gregg's Blog",
+    "author": "Brendan Gregg",
+    "bio": "Performance engineer",
+    "topics": [
+      "performance engineering",
+      "systems",
+      "technology"
+    ],
+    "totalScore": 17770,
+    "stories": 87
+  },
+  {
+    "rank": 46,
+    "domain": "mjg59.dreamwidth.org",
+    "slug": "mjg59-dreamwidth-org",
+    "name": "Matthew Garrett's Blog",
+    "author": "Matthew Garrett",
+    "bio": "Security developer",
+    "topics": [
+      "security",
+      "Linux",
+      "open-source"
+    ],
+    "totalScore": 17746,
+    "stories": 115
+  },
+  {
+    "rank": 47,
+    "domain": "blog.acolyer.org",
+    "slug": "blog-acolyer-org",
+    "name": "The Morning Paper",
+    "author": "Adrian Colyer",
+    "bio": "Technology analyst",
+    "topics": [
+      "computer science research",
+      "technology",
+      "software engineering"
+    ],
+    "totalScore": 17622,
+    "stories": 182
+  },
+  {
+    "rank": 48,
+    "domain": "idlewords.com",
+    "slug": "idlewords-com",
+    "name": "Idle Words",
+    "author": "Maciej Cegłowski",
+    "bio": "Developer and writer",
+    "topics": [
+      "technology",
+      "culture",
+      "travel"
+    ],
+    "totalScore": 17219,
+    "stories": 81
+  },
+  {
+    "rank": 49,
+    "domain": "lucumr.pocoo.org",
+    "slug": "lucumr-pocoo-org",
+    "name": "Armin Ronacher's Thoughts",
+    "author": "Armin Ronacher",
+    "bio": "Creator of Flask",
+    "topics": [
+      "Python",
+      "open-source",
+      "software development"
+    ],
+    "totalScore": 17184,
+    "stories": 108
+  },
+  {
+    "rank": 50,
+    "domain": "slatestarcodex.com",
+    "slug": "slatestarcodex-com",
+    "name": "Slate Star Codex",
+    "author": "Scott Alexander",
+    "bio": "Psychiatrist and blogger",
+    "topics": [
+      "rationality",
+      "psychology",
+      "culture"
+    ],
+    "totalScore": 17128,
+    "stories": 105
+  },
+  {
+    "rank": 51,
+    "domain": "mtlynch.io",
+    "slug": "mtlynch-io",
+    "name": "Michael Lynch's Blog",
+    "author": "Michael Lynch",
+    "bio": "Indie founder",
+    "topics": [
+      "software engineering",
+      "entrepreneurship",
+      "homelab"
+    ],
+    "totalScore": 16890,
+    "stories": 44
+  },
+  {
+    "rank": 52,
+    "domain": "pragmaticengineer.com",
+    "slug": "pragmaticengineer-com",
+    "name": "The Pragmatic Engineer",
+    "author": "Gergely Orosz",
+    "bio": "Software engineer",
+    "topics": [
+      "software engineering",
+      "career development",
+      "technology"
+    ],
+    "totalScore": 16700,
+    "stories": 84
+  },
+  {
+    "rank": 53,
+    "domain": "daemonology.net",
+    "slug": "daemonology-net",
+    "name": "Daemonology",
+    "author": "Colin Percival",
+    "bio": "FreeBSD contributor",
+    "topics": [
+      "security",
+      "backups",
+      "open-source"
+    ],
+    "totalScore": 15991,
+    "stories": 113
+  },
+  {
+    "rank": 54,
+    "domain": "blog.cryptographyengineering.com",
+    "slug": "blog-cryptographyengineering-com",
+    "name": "A Few Thoughts on Cryptographic Engineering",
+    "author": "Matthew Green",
+    "bio": "Cryptographer",
+    "topics": [
+      "cryptography",
+      "security",
+      "privacy"
+    ],
+    "totalScore": 15782,
+    "stories": 84
+  },
+  {
+    "rank": 55,
+    "domain": "scottaaronson.com",
+    "slug": "scottaaronson-com",
+    "name": "Scott Aaronson's Blog",
+    "author": "Scott Aaronson",
+    "bio": "Computer science professor",
+    "topics": [
+      "quantum computing",
+      "computer science",
+      "philosophy"
+    ],
+    "totalScore": 15703,
+    "stories": 132
+  },
+  {
+    "rank": 56,
+    "domain": "justine.lol",
+    "slug": "justine-lol",
+    "name": "Justine's Blog",
+    "author": "Justine Tunney",
+    "bio": "Software developer",
+    "topics": [
+      "programming",
+      "operating systems",
+      "technology"
+    ],
+    "totalScore": 15082,
+    "stories": 40
+  },
+  {
+    "rank": 57,
+    "domain": "buttondown.com/hillelwayne",
+    "slug": "buttondown-com-hillelwayne",
+    "name": "Hillel Wayne's Newsletter",
+    "author": "Hillel Wayne",
+    "bio": "Consultant and author",
+    "topics": [
+      "formal methods",
+      "software engineering",
+      "technology"
+    ],
+    "totalScore": 15069,
+    "stories": 95
+  },
+  {
+    "rank": 58,
+    "domain": "astralcodexten.com",
+    "slug": "astralcodexten-com",
+    "name": "Astral Codex Ten",
+    "author": "Scott Alexander",
+    "bio": "Psychiatrist and blogger",
+    "topics": [
+      "rationalism",
+      "psychology",
+      "culture"
+    ],
+    "totalScore": 14811,
+    "stories": 123
+  },
+  {
+    "rank": 59,
+    "domain": "joelonsoftware.com",
+    "slug": "joelonsoftware-com",
+    "name": "Joel on Software",
+    "author": "Joel Spolsky",
+    "bio": "Software developer and entrepreneur",
+    "topics": [
+      "software development",
+      "startups",
+      "project management"
+    ],
+    "totalScore": 14784,
+    "stories": 137
+  },
+  {
+    "rank": 60,
+    "domain": "prog21.dadgum.com",
+    "slug": "prog21-dadgum-com",
+    "name": "Programming in the 21st Century",
+    "author": "James Hague",
+    "bio": "Game designer",
+    "topics": [
+      "software development",
+      "game development"
+    ],
+    "totalScore": 14761,
+    "stories": 138
+  },
+  {
+    "rank": 61,
+    "domain": "seangoedecke.com",
+    "slug": "seangoedecke-com",
+    "name": "Sean Goedecke's Blog",
+    "author": "Sean Goedecke",
+    "bio": "Writer and software developer",
+    "topics": [
+      "writing",
+      "programming",
+      "personal projects"
+    ],
+    "totalScore": 14475,
+    "stories": 63
+  },
+  {
+    "rank": 62,
+    "domain": "randomascii.wordpress.com",
+    "slug": "randomascii-wordpress-com",
+    "name": "Random ASCII",
+    "author": "Bruce Dawson",
+    "bio": "Software developer",
+    "topics": [
+      "programming",
+      "debugging",
+      "performance"
+    ],
+    "totalScore": 14411,
+    "stories": 82
+  },
+  {
+    "rank": 63,
+    "domain": "zachholman.com",
+    "slug": "zachholman-com",
+    "name": "Zach Holman's Blog",
+    "author": "Zach Holman",
+    "bio": "Developer and speaker",
+    "topics": [
+      "software development",
+      "startups",
+      "GitHub"
+    ],
+    "totalScore": 14388,
+    "stories": 76
+  },
+  {
+    "rank": 64,
+    "domain": "acoup.blog",
+    "slug": "acoup-blog",
+    "name": "A Collection of Unmitigated Pedantry",
+    "author": "Bret Devereaux",
+    "bio": "Historian",
+    "topics": [
+      "history",
+      "military history",
+      "culture"
+    ],
+    "totalScore": 14163,
+    "stories": 112
+  },
+  {
+    "rank": 65,
+    "domain": "hillelwayne.com",
+    "slug": "hillelwayne-com",
+    "name": "Hillel Wayne's Blog",
+    "author": "Hillel Wayne",
+    "bio": "Consultant and author",
+    "topics": [
+      "formal methods",
+      "software engineering",
+      "technology"
+    ],
+    "totalScore": 14095,
+    "stories": 84
+  },
+  {
+    "rank": 66,
+    "domain": "eli.thegreenplace.net",
+    "slug": "eli-thegreenplace-net",
+    "name": "Eli Bendersky's Website",
+    "author": "Eli Bendersky",
+    "bio": "Software developer",
+    "topics": [
+      "programming",
+      "compilers",
+      "technology"
+    ],
+    "totalScore": 14065,
+    "stories": 150
+  },
+  {
+    "rank": 67,
+    "domain": "marginalia.nu",
+    "slug": "marginalia-nu",
+    "name": "Marginalia",
+    "author": "Viktor Lofgren",
+    "bio": "Founder of Marginalia search engine",
+    "topics": [
+      "web development",
+      "design",
+      "technology"
+    ],
+    "totalScore": 14060,
+    "stories": 46
+  },
+  {
+    "rank": 68,
+    "domain": "worrydream.com",
+    "slug": "worrydream-com",
+    "name": "Worry Dream",
+    "author": "Bret Victor",
+    "bio": "Designer and engineer",
+    "topics": [
+      "user interfaces",
+      "programming",
+      "technology"
+    ],
+    "totalScore": 14015,
+    "stories": 86
+  },
+  {
+    "rank": 69,
+    "domain": "catonmat.net",
+    "slug": "catonmat-net",
+    "name": "Catonmat",
+    "author": "Peteris Krumins",
+    "bio": "Developer and entrepreneur",
+    "topics": [
+      "programming",
+      "productivity",
+      "technology"
+    ],
+    "totalScore": 13978,
+    "stories": 153
+  },
+  {
+    "rank": 70,
+    "domain": "bunniestudios.com",
+    "slug": "bunniestudios-com",
+    "name": "Bunnie Studios",
+    "author": "Andrew Huang",
+    "bio": "Hacker and hardware developer",
+    "topics": [
+      "hardware hacking",
+      "open-source",
+      "technology"
+    ],
+    "totalScore": 13796,
+    "stories": 75
+  },
+  {
+    "rank": 71,
+    "domain": "filippo.io",
+    "slug": "filippo-io",
+    "name": "Filippo Valsorda's Blog",
+    "author": "Filippo Valsorda",
+    "bio": "Security engineer",
+    "topics": [
+      "security",
+      "cryptography",
+      "software engineering"
+    ],
+    "totalScore": 13477,
+    "stories": 71
+  },
+  {
+    "rank": 72,
+    "domain": "gabrielweinberg.com",
+    "slug": "gabrielweinberg-com",
+    "name": "Gabriel Weinberg's Blog",
+    "author": "Gabriel Weinberg",
+    "bio": "CEO of DuckDuckGo",
+    "topics": [
+      "privacy",
+      "entrepreneurship",
+      "technology"
+    ],
+    "totalScore": 13425,
+    "stories": 140
+  },
+  {
+    "rank": 73,
+    "domain": "apenwarr.ca",
+    "slug": "apenwarr-ca",
+    "name": "Avery Pennarun's Blog",
+    "author": "Avery Pennarun",
+    "bio": "CEO of Tailscale",
+    "topics": [
+      "networking",
+      "software development",
+      "technology"
+    ],
+    "totalScore": 13224,
+    "stories": 81
+  },
+  {
+    "rank": 74,
+    "domain": "matklad.github.io",
+    "slug": "matklad-github-io",
+    "name": "Matklad's Blog",
+    "author": "Alex Kladov",
+    "bio": "Rust contributor",
+    "topics": [
+      "Rust",
+      "software development",
+      "programming languages"
+    ],
+    "totalScore": 13164,
+    "stories": 77
+  },
+  {
+    "rank": 75,
+    "domain": "xkcd.com",
+    "slug": "xkcd-com",
+    "name": "xkcd",
+    "author": "Randall Munroe",
+    "bio": "Cartoonist and author",
+    "topics": [
+      "comics",
+      "science",
+      "technology"
+    ],
+    "totalScore": 13157,
+    "stories": 141
+  },
+  {
+    "rank": 76,
+    "domain": "austinhenley.com",
+    "slug": "austinhenley-com",
+    "name": "Austin Henley's Blog",
+    "author": "Austin Henley",
+    "bio": "Software developer and researcher",
+    "topics": [
+      "programming",
+      "software development",
+      "research"
+    ],
+    "totalScore": 13157,
+    "stories": 63
+  },
+  {
+    "rank": 77,
+    "domain": "matt.might.net",
+    "slug": "matt-might-net",
+    "name": "Matt Might's Blog",
+    "author": "Matt Might",
+    "bio": "Computer science professor",
+    "topics": [
+      "computer science",
+      "healthcare",
+      "technology"
+    ],
+    "totalScore": 13105,
+    "stories": 107
+  },
+  {
+    "rank": 78,
+    "domain": "lcamtuf.substack.com",
+    "slug": "lcamtuf-substack-com",
+    "name": "Lcamtuf's Blog",
+    "author": "Michał Zalewski",
+    "bio": "Security researcher",
+    "topics": [
+      "security",
+      "software development",
+      "hacking"
+    ],
+    "totalScore": 12749,
+    "stories": 68
+  },
+  {
+    "rank": 79,
+    "domain": "asmartbear.com",
+    "slug": "asmartbear-com",
+    "name": "A Smart Bear",
+    "author": "Jason Cohen",
+    "bio": "Founder of WPEngine",
+    "topics": [
+      "startups",
+      "entrepreneurship",
+      "software development"
+    ],
+    "totalScore": 12748,
+    "stories": 115
+  },
+  {
+    "rank": 80,
+    "domain": "stephendiehl.com",
+    "slug": "stephendiehl-com",
+    "name": "Stephen Diehl's Blog",
+    "author": "Stephen Diehl",
+    "bio": "Haskell enthusiast",
+    "topics": [
+      "Haskell",
+      "software development",
+      "programming languages"
+    ],
+    "totalScore": 12410,
+    "stories": 69
+  },
+  {
+    "rank": 81,
+    "domain": "blog.regehr.org",
+    "slug": "blog-regehr-org",
+    "name": "John Regehr's Blog",
+    "author": "John Regehr",
+    "bio": "Computer science professor",
+    "topics": [
+      "compilers",
+      "software engineering",
+      "programming languages"
+    ],
+    "totalScore": 12241,
+    "stories": 117
+  },
+  {
+    "rank": 82,
+    "domain": "robertheaton.com",
+    "slug": "robertheaton-com",
+    "name": "Robert Heaton's Blog",
+    "author": "Robert Heaton",
+    "bio": "Software developer",
+    "topics": [
+      "programming",
+      "security",
+      "technology"
+    ],
+    "totalScore": 12166,
+    "stories": 45
+  },
+  {
+    "rank": 83,
+    "domain": "aphyr.com",
+    "slug": "aphyr-com",
+    "name": "Aphyr",
+    "author": "Kyle Kingsbury",
+    "bio": "Distributed systems engineer",
+    "topics": [
+      "distributed systems",
+      "databases",
+      "software engineering"
+    ],
+    "totalScore": 12146,
+    "stories": 63
+  },
+  {
+    "rank": 84,
+    "domain": "idiallo.com",
+    "slug": "idiallo-com",
+    "name": "Ibrahim Diallo's Blog",
+    "author": "Ibrahim Diallo",
+    "bio": "Software developer",
+    "topics": [
+      "programming",
+      "software development",
+      "technology"
+    ],
+    "totalScore": 12094,
+    "stories": 35
+  },
+  {
+    "rank": 85,
+    "domain": "lapcatsoftware.com",
+    "slug": "lapcatsoftware-com",
+    "name": "Lapcatsoftware",
+    "author": "Jeff Johnson",
+    "bio": "Apple software developer",
+    "topics": [
+      "security",
+      "macOS",
+      "iOS"
+    ],
+    "totalScore": 11930,
+    "stories": 64
+  },
+  {
+    "rank": 86,
+    "domain": "jwz.org",
+    "slug": "jwz-org",
+    "name": "JWZ",
+    "author": "Jamie Zawinski",
+    "bio": "Early Netscape engineer",
+    "topics": [
+      "software development",
+      "technology",
+      "personal blog"
+    ],
+    "totalScore": 11768,
+    "stories": 79
+  },
+  {
+    "rank": 87,
+    "domain": "bellard.org",
+    "slug": "bellard-org",
+    "name": "Fabrice Bellard's Blog",
+    "author": "Fabrice Bellard",
+    "bio": "Creator of FFmpeg and QEMU",
+    "topics": [
+      "software development",
+      "multimedia processing",
+      "emulation"
+    ],
+    "totalScore": 11727,
+    "stories": 48
+  },
+  {
+    "rank": 88,
+    "domain": "joshwcomeau.com",
+    "slug": "joshwcomeau-com",
+    "name": "Josh W. Comeau's Blog",
+    "author": "Josh W. Comeau",
+    "bio": "Software developer and educator",
+    "topics": [
+      "web development",
+      "React",
+      "JavaScript"
+    ],
+    "totalScore": 11615,
+    "stories": 64
+  },
+  {
+    "rank": 89,
+    "domain": "tedium.co",
+    "slug": "tedium-co",
+    "name": "Tedium",
+    "author": "Ernie Smith",
+    "bio": "Writer and editor",
+    "topics": [
+      "obscure history",
+      "technology",
+      "culture"
+    ],
+    "totalScore": 11611,
+    "stories": 89
+  },
+  {
+    "rank": 90,
+    "domain": "tedunangst.com",
+    "slug": "tedunangst-com",
+    "name": "Ted Unangst's Blog",
+    "author": "Ted Unangst",
+    "bio": "OpenBSD contributor",
+    "topics": [
+      "OpenBSD",
+      "software development",
+      "security"
+    ],
+    "totalScore": 11563,
+    "stories": 110
+  },
+  {
+    "rank": 91,
+    "domain": "yosefk.com",
+    "slug": "yosefk-com",
+    "name": "Yosef Mendelsohn's Blog",
+    "author": "Yosef Mendelsohn",
+    "bio": "Software engineer",
+    "topics": [
+      "software development",
+      "C++",
+      "programming languages"
+    ],
+    "totalScore": 11446,
+    "stories": 98
+  },
+  {
+    "rank": 92,
+    "domain": "blog.jim-nielsen.com",
+    "slug": "blog-jim-nielsen-com",
+    "name": "Jim Nielsen's Blog",
+    "author": "Jim Nielsen",
+    "bio": "Web developer and designer",
+    "topics": [
+      "web development",
+      "design",
+      "technology"
+    ],
+    "totalScore": 11333,
+    "stories": 37
+  },
+  {
+    "rank": 93,
+    "domain": "blog.benjojo.co.uk",
+    "slug": "blog-benjojo-co-uk",
+    "name": "Ben Cox's Blog",
+    "author": "Ben Cox",
+    "bio": "Software engineer",
+    "topics": [
+      "software development",
+      "infrastructure",
+      "networking"
+    ],
+    "totalScore": 11289,
+    "stories": 57
+  },
+  {
+    "rank": 94,
+    "domain": "calnewport.com",
+    "slug": "calnewport-com",
+    "name": "Cal Newport's Blog",
+    "author": "Cal Newport",
+    "bio": "Computer science professor and author",
+    "topics": [
+      "productivity",
+      "deep work",
+      "computer science"
+    ],
+    "totalScore": 11227,
+    "stories": 85
+  },
+  {
+    "rank": 95,
+    "domain": "blog.fogus.me",
+    "slug": "blog-fogus-me",
+    "name": "Fogus' Blog",
+    "author": "Michael Fogus",
+    "bio": "Software developer and author",
+    "topics": [
+      "functional programming",
+      "software development",
+      "Clojure"
+    ],
+    "totalScore": 11203,
+    "stories": 98
+  },
+  {
+    "rank": 96,
+    "domain": "fasterthanli.me",
+    "slug": "fasterthanli-me",
+    "name": "Faster Than Lime",
+    "author": "Amos Wenger",
+    "bio": "Rust enthusiast",
+    "topics": [
+      "Rust programming",
+      "software development",
+      "programming languages"
+    ],
+    "totalScore": 11081,
+    "stories": 52
+  },
+  {
+    "rank": 97,
+    "domain": "berthub.eu",
+    "slug": "berthub-eu",
+    "name": "Bert Hubert's Blog",
+    "author": "Bert Hubert",
+    "bio": "Software developer",
+    "topics": [
+      "DNS",
+      "software development",
+      "technology"
+    ],
+    "totalScore": 11068,
+    "stories": 51
+  },
+  {
+    "rank": 98,
+    "domain": "minimaxir.com",
+    "slug": "minimaxir-com",
+    "name": "Minimaxir",
+    "author": "Max Woolf",
+    "bio": "Data scientist",
+    "topics": [
+      "data science",
+      "machine learning",
+      "software development"
+    ],
+    "totalScore": 11044,
+    "stories": 68
+  },
+  {
+    "rank": 99,
+    "domain": "robert.ocallahan.org",
+    "slug": "robert-ocallahan-org",
+    "name": "Robert O'Callahan's Blog",
+    "author": "Robert O'Callahan",
+    "bio": "Software developer",
+    "topics": [
+      "programming",
+      "debugging",
+      "technology"
+    ],
+    "totalScore": 11023,
+    "stories": 52
+  },
+  {
+    "rank": 100,
+    "domain": "research.swtch.com",
+    "slug": "research-swtch-com",
+    "name": "Research!rsc",
+    "author": "Russ Cox",
+    "bio": "Principal engineer at Google",
+    "topics": [
+      "programming",
+      "software engineering",
+      "Go language"
+    ],
+    "totalScore": 10974,
+    "stories": 80
+  }
+]
